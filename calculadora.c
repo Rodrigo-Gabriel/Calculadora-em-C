@@ -41,7 +41,7 @@ int main() {
     default:
         printf("Operador invalido.\n");
         break;
-    }
+    } 
     system("pause");
     return 0;
 }
